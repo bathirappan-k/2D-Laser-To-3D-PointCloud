@@ -25,6 +25,27 @@ Refer to report for more details: [Project Report](EECE%205554%20Robot%20Sensing
 
 Project Presentation: [Project Presentation](RSN%20Group%201%20Final%20Project%20Presentation.pdf)
 
+## Results of 2D laser to 3D point cloud 
+
+### perpendicular setup
+![perpendicular setup](laser_2d_to_3d/images/perpendicular%20setup.jpeg)
+
+### perpendicular setup environment1
+![perpendicular setup environment1](laser_2d_to_3d/images/env1.jpeg)
+
+### perpendicular Point Cloud1
+![perpendicular Point Cloud1](laser_2d_to_3d/images/perpendicular%20setup%20result%201%20env%201.jpeg)
+
+### perpendicular setup environment2
+![perpendicular setup environment2](laser_2d_to_3d/images/env2.jpeg)
+
+### perpendicular Point Cloud2
+![perpendicular Point Cloud2](laser_2d_to_3d/images/perpendicular%20setup%20result%202%20env%202.jpeg)
+
+<!-- ![parallel setup](laser_2d_to_3d/images/parallel%20setup.jpeg)
+![parallel setup environment](laser_2d_to_3d/images/env2.jpeg)
+![parallel Point Cloud](laser_2d_to_3d/images/) -->
+
 ## laser_2d_to_3d
 This has the main algorithm to convert 2D laser points to 3D pointcloud data, arduino code to run the servo, config files, source file to command servo, and launch files as well.
 
