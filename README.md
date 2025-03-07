@@ -1,1 +1,2 @@
 # 2D-Laser-To-3D-PointCloud
+This pack is made to convert the 2D laser points to 3D pointcloud data by placing the 2D lidar in certain positon and make the sweep movement using servo to conver the entire environment.
